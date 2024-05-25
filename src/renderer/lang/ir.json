@@ -1,3 +1,19 @@
 {
-  "title": "The Dash"
+  "title": "The Dash",
+  "description": "یک ابزار ارسال بسته از راه دور برای PS4",
+  "buttons": {
+    "send": "ارسال",
+    "cancel": "لغو",
+    "browse": "مرور"
+  },
+  "labels": {
+    "ip": "آدرس IP",
+    "port": "پورت",
+    "package": "بسته"
+  },
+  "messages": {
+    "success": "بسته با موفقیت ارسال شد.",
+    "error": "خطایی در ارسال بسته رخ داد.",
+    "noFile": "لطفاً یک فایل بسته انتخاب کنید."
+  }
 }
